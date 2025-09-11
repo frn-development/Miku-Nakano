@@ -4,7 +4,7 @@ const fs = require('fs-extra');
 
 module.exports = {
     config: {
-        name: "meme",
+        name: "meme1",
         version: "1.0",
         author: "Farhan",
         countDown: 5,
